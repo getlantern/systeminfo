@@ -1,6 +1,6 @@
 module github.com/getlantern/systeminfo
 
-go 1.15
+go 1.10
 
 require (
 	github.com/bi-zone/wmi v1.1.4
